@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rujoiu Steliana Maria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header a {
+            color: #ffffff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .main-content h1 {
+            color: #35424a;
+        }
+        .main-content p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rujoiu Steliana Maria</h1>
+        </div>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <h1>Despre Mine</h1>
+            <p><strong>Expertiză:</strong> contabilitate și finanțe, acumulată în peste cincisprezece (15) ani în cadrul companiilor multinaționale, cu abilități puternice de management de proiect, analiză de profitabilitate, P&L, bilanț, bugete și strategie de implementare a planului de afaceri, experiență în domeniul educației și formării.</p>
+            <p><strong>Abilități avansate:</strong> Word, PowerPoint, Excel, SAP și alte sisteme informatice.</p>
+            <p><strong>Realizări:</strong> În toate companiile în care am lucrat, am adus schimbări semnificative: participarea la implementarea unui nou sistem IT mai eficient, atragerea de fonduri pentru investiții, raportarea într-un timp foarte scurt, determinarea oamenilor să accepte schimbările etc. În acest moment, fac următorul pas pentru a ajuta adolescenții și tinerii să înțeleagă și să accepte schimbările.</p>
+            <h2>Motoul Meu</h2>
+            <p>„Împărtășirea experiențelor altora este cheia evoluției. Urmează-ți pasiunile și fă ceea ce iubești!”</p>
+        </div>
+    </div>
+    <footer>
+
+
+
+
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rujoiu Steliana Maria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .main-content h1 {
+            color: #35424a;
+        }
+        .main-content p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rujoiu Steliana Maria</h1>
+        </div>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <h1>Despre Mine</h1>
+            <p><strong>Expertiză:</strong> contabilitate și finanțe, acumulată în peste cincisprezece (15) ani în cadrul companiilor multinaționale, cu abilități puternice de management de proiect, analiză de profitabilitate, P&L, bilanț, bugete și strategie de implementare a planului de afaceri, experiență în domeniul educației și formării.</p>
+            <p><strong>Abilități avansate:</strong> Word, PowerPoint, Excel, SAP și alte sisteme informatice.</p>
+            <p><strong>Realizări:</strong> În toate companiile în care am lucrat, am adus schimbări semnificative: participarea la implementarea unui nou sistem IT mai eficient, atragerea de fonduri pentru investiții, raportarea într-un timp foarte scurt, determinarea oamenilor să accepte schimbările etc. În acest moment, fac următorul pas pentru a ajuta adolescenții și tinerii să înțeleagă și să accepte schimbările.</p>
+            <h2>Motoul Meu</h2>
+            <p>„Împărtășirea experiențelor altora este cheia evoluției. Urmează-ți pasiunile și fă ceea ce iubești!”</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Rujoiu Steliana Maria. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rujoiu Steliana Maria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .main-content h1 {
+            color: #35424a;
+        }
+        .main-content p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 30px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rujoiu Steliana Maria</h1>
+        </div>
+    </header>
+    <div class="container">
+        <div class="main-content">
+            <h1>Despre Mine</h1>
+            <p><strong>Expertiză:</strong> contabilitate și finanțe, acumulată în peste cincisprezece (15) ani în cadrul companiilor multinaționale, cu abilități puternice de management de proiect, analiză de profitabilitate, P&L, bilanț, bugete și strategie de implementare a planului de afaceri, experiență în domeniul educației și formării.</p>
+            <p><strong>Abilități avansate:</strong> Word, PowerPoint, Excel, SAP și alte sisteme informatice.</p>
+            <p><strong>Realizări:</strong> În toate companiile în care am lucrat, am adus schimbări semnificative: participarea la implementarea unui nou sistem IT mai eficient, atragerea de fonduri pentru investiții, raportarea într-un timp foarte scurt, determinarea oamenilor să accepte schimbările etc. În acest moment, fac următorul pas pentru a ajuta adolescenții și tinerii să înțeleagă și să accepte schimbările.</p>
+            <h2>Motoul Meu</h2>
+            <p>„Împărtășirea experiențelor altora este cheia evoluției. Urmează-ți pasiunile și fă ceea ce iubești!”</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Rujoiu Steliana Maria. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
+
+        <p>&copy; 2024 Rujoiu Steliana Maria. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
